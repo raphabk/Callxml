@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say voice="alice">
+		Thanks for using Can You Speak.
+	</Say>
+	<Pause length="1"/>
+	<Say voice="alice">
+		We will connect you to your student.
+	</Say>
+	<Dial>
+		<Number>+33-603-049-114</Number>
+	</Dial>
+</Response>
