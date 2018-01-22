@@ -7,5 +7,7 @@
 	<Say voice="alice">
 		Let us know if we can help you in any way during your development.
 	</Say>
-	<Dial timeout="10">+33603049114</Dial>
+	<Dial timeout="10">
+		<Number>+33603049114</Number>
+	</Dial>
 </Response>
