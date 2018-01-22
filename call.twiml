@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-	<Say voice="alice">
+	<Say voice="woman">
 		Thanks for using Can You Speak.
 	</Say>
 	<Pause length="1"/>
-	<Say voice="alice">
+	<Say voice="woman">
 		We will connect you to your student.
 	</Say>
 	<Dial>
